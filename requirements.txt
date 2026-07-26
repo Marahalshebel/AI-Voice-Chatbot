@@ -1,0 +1,8 @@
+openai-whisper
+cohere
+python-dotenv
+sounddevice
+soundfile
+numpy
+scipy
+pyttsx3
