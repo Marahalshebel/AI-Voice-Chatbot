@@ -10,7 +10,7 @@ This project implements an AI-powered voice chatbot using Python. The chatbot re
 
 - ## Output
 The following screenshot demonstrates the chatbot execution after converting speech to text, generating an AI response, and displaying the conversation.
-![Voice Chatbot Output](images/output.png)
+![Voice Chatbot Output](output.png)
 
 ## Technologies
 - Python 3.11
@@ -30,9 +30,7 @@ VoiceChatbot/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── .env
-└── images/
-    └── output.png
+└── output.png
 ```
 
 ## Installation
